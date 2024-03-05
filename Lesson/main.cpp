@@ -17,6 +17,7 @@
 */
 int main(void)
 {
+	int a = 0;
 
 	//„“ü—Í‘Ò‹@
 	std::cin.get();	//“ü—Íó•t
