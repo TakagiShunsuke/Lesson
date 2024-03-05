@@ -21,7 +21,7 @@ int main(void)
 	//„“ü—Í‘Ò‹@
 	std::cin.get();	//“ü—Íó•t
 	//fffffffff
-
+	//yyyyyyyy
 	//„I—¹
 	return 0;	//ˆ—¬Œ÷
 }
